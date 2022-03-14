@@ -1,1 +1,1 @@
-This is the Hello World C directory
+This is the alx-low_level_programming repo
